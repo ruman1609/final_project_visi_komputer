@@ -1,3 +1,4 @@
+# Replikasi
 Untuk menjalankan program dari awal.
 
 Download dataset dan ekstrak data citra nya ke folder Dataset/1_asli
