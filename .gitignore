@@ -1,0 +1,6 @@
+*.h5
+*.jpeg
+*.pdf
+/Program/CNN
+/Program/Handcrafted
+/Program/Reference
